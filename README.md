@@ -1,4 +1,4 @@
-# Senitor Abiru Innovative Lab - Integrated Search Engine
+# Integrated Search Engine
 
 
 ## Table of contents
